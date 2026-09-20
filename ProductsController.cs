@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using SportsWebAPI.Responses;
 
-namespace SportsWebAPI.Controllers
+namespace SportsWebAPI.Controllers // This is a comment to start a merge conflict
 {
     [ApiController]
     [Route("api/[controller]")]
