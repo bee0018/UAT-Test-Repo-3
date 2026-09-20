@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using SportsWebAPI.Responses;
 
-namespace SportsWebAPI.Controllers
+namespace SportsWebAPI.Controllers // some change being done
 {
     [ApiController]
     [Route("api/[controller]")]
